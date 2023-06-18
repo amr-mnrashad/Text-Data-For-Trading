@@ -12,4 +12,5 @@ The second part is to introduce sentiment analysis, meaning to see if news artic
 The idea is to try two approaches:
 - First approach is to perform prediction using the external regressors specified excluding sentiment regressor.
 - Second approach is to perform prediction using the external regressors specified including sentiment regressor.
+
 Then see which approach leads to a better performance/prediciton.
